@@ -14,5 +14,8 @@ test-unchanged.escript
 *.iml
 *.dump
 _build/
-rebar.lock
+# rebar.lock
 .DS_Store
+rebar3
+.github
+mise.toml
