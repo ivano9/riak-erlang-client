@@ -1,7 +1,7 @@
 %% -*- erlang -*-
 {application, riakc,
  [{description, "Riak Client"},
-  {vsn, git},
+  {vsn, "2.6.0"},
   {applications, [
                   kernel,
                   stdlib,

@@ -1,6 +1,10 @@
 Release Notes
 =============
 
+* 2.6.0
+
+  * upgrade dependencie `riak_pb` in order to support OTP 29
+
 * [`2.5.5`](https://github.com/basho/riak-erlang-client/issues?q=milestone%3Ariak-erlang-client-2.5.5)
   * [Add `node_confirms` option to PUT request](https://github.com/basho/riak-erlang-client/pull/371)
   * [Add gset support ](https://github.com/basho/riak-erlang-client/pull/373)
